@@ -1,0 +1,13 @@
+.carousel {
+
+    height:460px;
+    
+    }
+    
+    .carousel-inner gt .item gt img {
+    
+    height:460px;
+    
+    object-fit: contain;
+    
+    }
